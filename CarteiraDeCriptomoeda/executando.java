@@ -1,3 +1,5 @@
+package CarteiraDeCriptomoeda;
+
 public class executando {
     
     public static void main(String[] args) {
